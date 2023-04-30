@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Stefano Chiardola</h1>
 <h3 align="center">I am the CEO of Black Cat Agency</h3>
 
-- I’m currently working on **Black Cat**
+- 💼  I’m currently working on **Black Cat**
 
-- I’m currently learning **Python whit Soy Dalto**
+-  📖  I’m currently learning **Python whit Soy Dalto**
 
-- I’m looking for help with **BLack Cat**
+- 🔧 I’m looking for help with **BLack Cat**
 
-- Ask me about **business or work**
+- 💻  Ask me about **business or work**
 
-- How to reach me **stefanochiardola@gmail.com**
+- 📲  How to reach me **stefanochiardola@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
